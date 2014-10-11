@@ -1,0 +1,24 @@
+@charset "utf-8";
+/*
+ * Name:			moxiaohe.css
+ * Introduction:	http://moxiaohe.com blog stylesheet
+ * Author：		    @moxiaohe
+ * Time:			2014-03-12
+ */
+
+body,h1,h2,h3,h4,h5,h6,hr,p,dl,dt,dd,ul,ol,li,form,fieldset,legend,button,input,textarea,th,td{margin:0;padding:0;}
+body,button,input,select,textarea{font:12px/1.5 arial,tahoma,\5b8b\4f53;}
+body{background:#FFF;color:#333;}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+em,i{font-style:normal;}
+fieldset,img{border:0;}
+ul,ol,li{list-style:none;}
+button,input,select,textarea{font-size:100%;outline:none}
+textarea{resize:none;}
+table{border-collapse:collapse;border-spacing:0;}
+a{color:#333;text-decoration:none;outline:none;}
+a:hover{color:#F60;text-decoration:underline;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{zoom:1;}
+.clear{clear:both;display:block;height:0;overflow:hidden;font-size:0;}
+.hide{display:none;}
